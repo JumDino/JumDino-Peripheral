@@ -1,5 +1,5 @@
-#ifndef __POKEROBO_LAB_BLE_PERIPHERAL_H__
-#define __POKEROBO_LAB_BLE_PERIPHERAL_H__
+#ifndef __JUMDINO_LIB_BLE_PERIPHERAL_H__
+#define __JUMDINO_LIB_BLE_PERIPHERAL_H__
 
 #include <ArduinoBLE.h>
 #include "JumDino_Lib_BLE_Logger.h"
